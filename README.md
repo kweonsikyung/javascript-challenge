@@ -1,1 +1,1 @@
-web/mobile study - javascirpt challenge
+2022 web/mobile study - javascirpt challenge
