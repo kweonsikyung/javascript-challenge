@@ -27,7 +27,7 @@ function countdown() {
     
 }
 
-//한자릿수 -> 08 09 변환 // padStart()
+//한자릿수 -> 08 09 변환 // padStart() 참고 
 function formatTime(time){
     return time < 10 ? (`0${time}`) : time;
 }
