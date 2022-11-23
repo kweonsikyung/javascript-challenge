@@ -100,7 +100,7 @@ submitBtn.addEventListener('click', () => {
         }
 
         currentQuiz++;  
-        
+
         if(currentQuiz < quizData.length){
             loadQuiz();
         }else {
