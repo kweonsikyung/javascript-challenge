@@ -1,3 +1,5 @@
+// recipe app
+
 const mealsEl = document.getElementById("meals");
 const favoriteContainer = document.getElementById("fav-meals");
 const mealPopup = document.getElementById("meal-popup");
