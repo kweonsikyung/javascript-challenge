@@ -1,3 +1,5 @@
+// password generator
+
 const pw = document.getElementsById('pw');
 const copy = document.getElementsById('copy');
 const len = document.getElementsById('len');
